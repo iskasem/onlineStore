@@ -1,3 +1,3 @@
 # onlineStore1
-this is online store Mokap
+ some other changesthis is online store Mokap
 some changes now
